@@ -1,0 +1,7 @@
+public class Example {
+    public String message = "Hello, World!";
+
+    public void displayMessage() {
+        System.out.println(message);
+    }
+}
